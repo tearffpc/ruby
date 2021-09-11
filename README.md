@@ -50,10 +50,16 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   ## Developers
   <div align="center">
     
-  [![AMAL SER](https://github.com/cyberchekuthan.png?size=100)](https://github.com/cyberchekuthan) |  [![ALINSHAN](https://github.com/CYBER-DASHAMOOLAN.png?size=100)](https://github.com/CYBER-DASHAMOOLAN) | [![NABUHAN](https://github.com/nabuhandbz.png?size=150)](https://github.com/nabuhandbz) 
-----|----|----
-[AMAL SER](https://github.com/cyberchekuthan)  | [ALINSHAN](https://github.com/CYBER-DASHAMOOLAN) | [NABUHAN](https://https://github.com/nabuhandbz)
-Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug Fixes, Modules
+  [![AMAL SER](https://github.com/cyberchekuthan.png?size=100)](https://github.com/cyberchekuthan) |  
+    ----|
+    [AMAL SER](https://github.com/cyberchekuthan) |
+    Base, Bug Fixes, Modules |
+     </div>
+    
+    [![NABUHAN](https://github.com/nabuhandbz.png?size=150)](https://github.com/nabuhandbz) |
+     ----|
+    [NABUHAN](https://https://github.com/nabuhandbz) |
+    Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug Fixes, Modules
   </div>
     
 
