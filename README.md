@@ -12,7 +12,7 @@ Project created by <a href="https://github.com/nabuhandbz">nabuhandbz</a> to mak
         Reserved |
     <br> 
 </p>
-
+<div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
   </div>
