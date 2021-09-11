@@ -47,7 +47,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">      
 
-  [![NABUHAN]( https://www.linkpicture.com/q/chromeser.jpeg" width="200" height="200"/)](https://github.com/nabuhandbz) |  
+  [![NABUHAN]("https://www.linkpicture.com/q//chromeser.jpeg" width="200" height="200"/>)](https://github.com/nabuhandbz) |  
 ----|
 [NABUHAN](https://github.com/nabuhandbz) |  
 Bug Fixes, Modules 
