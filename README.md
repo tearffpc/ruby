@@ -1,6 +1,10 @@
 <div align="center">
   <img border-radius: 15px src="https://www.linkpicture.com/q/chromeser.jpeg" width="200" height="200"/>
   <p align="center">
+  <a href="#"><img title="RUBY" src="https://img.shields.io/badge/-RUb%20Y-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p align="center">
+<a href="https://github.com/nabuhandbz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-NABUHAN-grey%2Fblue?color=blue&style=for-the-badge&logo=whatsapp">
 <a href="#"><img title="ruby" src="https://img.shields.io/badge/nabuhandbz-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   
