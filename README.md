@@ -45,17 +45,18 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ```
 
 ## Developers
-  <div align="center">
-    
-  ## Developers
-  <div align="center">
-    
+  <div align="center">       
+
+  [![CYBER-DASHAMOOLAN](https://github.com/CYBER-DASHAMOOLAN.png?size=100)](https://github.com/CYBER-DASHAMOOLAN) |  
+----|
+[ALINSHAN](https://github.com/CYBER-DASHAMOOLAN)  |  
+Base, Bug Fixes, Modules | 
+ 
   [![NABUHAN](https://github.com/nabuhandbz.png?size=100)](https://github.com/nabuhandbz) |  
-    ----|
-    [NABUHAN](https://https://github.com/nabuhandbz) |
-    Base, Bug Fixes, Modules |
-     </div>
-    
+----|
+[NABUHAN](https://github.com/nabuhandbz)  |  
+Bug Fixes, Modules 
+    </div>
   
 
 
