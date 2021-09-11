@@ -1,4 +1,3 @@
-<div align="center"
 ## <!-- Typing SVG -->
 <p align="center">
     <a href="https://git.io/J0hKr">
