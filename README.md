@@ -1,16 +1,18 @@
 <div align="center">
-
-## Its_me_Amal 
-
-<div align="center">
-  <img src=https://www.linkpicture.com/q/IMG-20210819-WA1189.jpg>
-
-## 📢 Guide
-Click WA logo to Join Support Group 👇
+  <img border-radius: 15px src="https://www.linkpicture.com/q/chromeser.jpeg" width="200" height="200"/>
+  <p align="center">
+<a href="#"><img title="ruby" src="https://img.shields.io/badge/nabuhandbz-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  
+</div>
+<p align="center">
+Project created by <a href="https://github.com/nabuhandbz">nabuhandbz</a> to make it public
     <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Lvtl7GqERfP19Na6M2wndX)
-  <div align="center">
+       | © |
+        Reserved |
+    <br> 
+</p>
+
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
   </div>
