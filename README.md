@@ -49,14 +49,14 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
   [![CYBER-DASHAMOOLAN](https://github.com/CYBER-DASHAMOOLAN.png?size=100)](https://github.com/CYBER-DASHAMOOLAN) |  
 ----|
-[ALINSHAN](https://github.com/CYBER-DASHAMOOLAN)  |  
+[ALINSHAN](https://github.com/CYBER-DASHAMOOLAN) |  
 Base, Bug Fixes, Modules | 
  
   [![NABUHAN](https://github.com/nabuhandbz.png?size=100)](https://github.com/nabuhandbz) |  
 ----|
-[NABUHAN](https://github.com/nabuhandbz)  |  
+[NABUHAN](https://github.com/nabuhandbz) |  
 Bug Fixes, Modules 
-    </div>
+
   
 
 
