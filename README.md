@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/nabuhandbz">nabuhandbz</a> to mak
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberchekuthan/Amalser_v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nabuhandbz/ruby)
      </div>
 <br>
 <br >
@@ -33,7 +33,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Amal
+
 
 
 ### ⚠️ Warning! 
@@ -47,12 +47,17 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Amalser](<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
- https://github.com/Amalser_v1 |  
-----|
+  [![cyberchekuthan](https://github.com/cyberchekuthan.png?size=100)](https://github.com/cyberchekuthan) |
+ ----| 
 [Its_me_Amal](https://github.com/Amalser_v1)  |
 Base, Bug Fixes, Modules | 
+ 
   
+  [![CYBER-DASHAMOOLAN](https://github.com/CYBER-DASHAMOOLAN.png?size=100)](https://github.com/CYBER-DASHAMOOLAN) |  
+----|
+[ALINSHAN](https://github.com/CYBER-DASHAMOOLAN)  |  
+Base, Bug Fixes, Modules | 
+  </div>
     
 
 
