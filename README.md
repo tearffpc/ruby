@@ -56,10 +56,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     Base, Bug Fixes, Modules |
      </div>
     
-    [![NABUHAN](https://github.com/nabuhandbz.png?size=150)](https://github.com/nabuhandbz) |
+    [![NABUHAN](https://github.com/nabuhandbz.png?size=100)](https://github.com/nabuhandbz) |
      ----|
     [NABUHAN](https://https://github.com/nabuhandbz) |
-    Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug Fixes, Modules
+    Bug Fixes, Modules |
   </div>
     
 
