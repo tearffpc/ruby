@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://github.com/nabuhandbz">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=40&width=800&lines=WELCOME+TO+RUBY+BOT+REPO"
+        src="https://readme-typing-svg.herokuapp.com?size=40&width=800&lines=WELCOME+TO+RUBY+BOT+REPO-%20-green?colorA=%23ff0000&colorB=%23017e40"
             alt="Typing SVG"
         />
     </a>
