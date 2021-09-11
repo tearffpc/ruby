@@ -1,6 +1,6 @@
 ## <!-- Typing SVG -->
 <p align="center">
-    <a href="https://git.io/J0hKr">
+    <a href="https://github.com/nabuhandbz">
         <img
         src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=WELCOME+TO+RUBY+BOT+REPO"
             alt="Typing SVG"
